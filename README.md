@@ -1,7 +1,7 @@
 # cs10_q1_websites_sandbox
 this is a website project about me for computer science at queen e
 started Aug. 08 2020
-lest edited Aug. 16 2020
+lest edited Aug. 21 2020
 David Verbeek
 my name is David Verbeek and I am a student at queen Elizabeth 2 high school
 I am a Canadian and my ethnicity British
