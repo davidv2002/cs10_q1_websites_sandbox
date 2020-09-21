@@ -21,3 +21,5 @@ I want to be able to work on prototype CPUs and be able to take some home to pla
 
 50 word description of me
 my name is David Verbeek and I am a computer science student at queen e high school in Edmonton, the city where I was born. my family however comes from England which is a culture with many amazing foods like: mincemeat pies, sausage rolls and of coarse a good cup of black tea.
+50 Word Description of my Career Plans
+my Career plan is to go to University of Alberta for engineering specialising in computer architecture micro assembly and then my hope is to work in AMDs CPU division
