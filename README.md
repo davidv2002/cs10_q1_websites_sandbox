@@ -32,3 +32,5 @@ One of my favourite thing to do is work on my old computers, currently I am tryi
 My coolest old computer has too be my server that I am trying to get working, it is a old Dell PowerEdge 2850 SCSI based server that I am refitting for SATA 2: it uses 2 double treaded single core Netburst Xeons with slow speed 400mhz ECC ddr2 ram. but despite all that it still works and runs Windows Server 08 R2 and is going to be the FTP server at the core of my home network, when I finely get it working.  
 
 I also have gotten my own 3d printer working an Anet a6 Chinese kit printer and it was a lot of work but I have not gotten it set back up after I moved to Edmonton, but once I get it set up I will be building an enclosure for it.
+
+I also enjoy learn about new things and when ever I got into something I will give it my all, and nothing will stop me.
