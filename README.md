@@ -12,7 +12,7 @@ I love to work on computers
 I am an experienced Appalachian mountain step dancer
 I enjoy a bit of photography as well as biking
 I have experience babysitting medically fragilely children to help my grandmother who is a foster parent.
-I am a red belt in tykondo and go to the gym often.
+I am a red belt in taekwondo and go to the gym often.
 I was home schooled up to grade 10.
 my plan for uni
 my goal is too became an engineer in computer architecture micro assembly
@@ -22,4 +22,5 @@ I want to be able to work on prototype CPUs and be able to take some home to pla
 50 word description of me
 my name is David Verbeek and I am a computer science student at queen e high school in Edmonton, the city where I was born. my family however comes from England which is a culture with many amazing foods like: mincemeat pies, sausage rolls and of coarse a good cup of black tea.
 50 Word Description of my Career Plans
-my Career plan is to go to University of Alberta for engineering specialising in computer architecture micro assembly and then my hope is to work in AMDs CPU division. In order to get there I have to complete math 30-1 and 31, English 30-1, Social 30-1 and, both chemistry a physics 30. 
+my Career plan is to go to University of Alberta for engineering specialising in computer architecture micro assembly and then my hope is to work in AMDs CPU division. In order to get there I have to complete math 30-1 and 31, English 30-1, Social 30-1 and, both chemistry a physics 30.
+I am a trained martial artist, specifically I am a red belt in taekwondo. I am also an Appalachian mountain step dancer, something I have done for almost my whole life. I have experience babysitting highly medically children: including mixing meds, feeding using an NG tube and of course changing diapers.    
